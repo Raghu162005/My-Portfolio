@@ -123,4 +123,4 @@ I'm always interested in connecting with developers, collaborating on interestin
   <b>Designed & Developed by Raghavendra Patne</b>
   <br>
   © 2026 All Rights Reserved.
-</p>
+  </p>
